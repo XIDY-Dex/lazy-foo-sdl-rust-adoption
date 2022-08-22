@@ -7,7 +7,7 @@ This will also install a Cargo package manager, which will definitely come in ha
 <br>
 Now, when we done with the setup process, let's talk about the structure of the course.
 ## Course structure
-Well, as you might already understood, course will be splitted into seperate lessons, each one will cover the topic from the same lesson on Lazy Foo's SDL Tutorial, but cpde will be re-written with Rust. Each lesson will have the source code and a small markdown file with some additions, comments and notes. 
+Well, as you might already understood, course will be splitted into seperate lessons, each one will cover the topic from the same lesson on Lazy Foo's SDL Tutorial, but code will be re-written with Rust. Each lesson will have the source code and a small markdown file with some additions, comments and notes. 
 ## What do I need to study this course?
 Uhm, i think that the basic level of Rust will be just enough for you to understand the most of the code. I will do my best to avoid using hard parts of Rust, like lifetimes, but if i will have to, i will some notes and comments in the attached markdown file.
 
